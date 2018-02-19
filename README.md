@@ -1,8 +1,8 @@
 ## DSSB-Dressing
 
 #### Resources
-- [Meeting Notes](https://docs.google.com/spreadsheets/d/1efbMRaKTUslNaygWW0ClOrDtDmz-vBPUSCbdVV24Pdw/edit#gid=255759195)
-http://cs231n.github.io/transfer-learning/
+- [Meeting Notes](https://www.google.com)
+
 
 #### Team members (In alphabetical order)
 - Aniket
@@ -12,9 +12,6 @@ http://cs231n.github.io/transfer-learning/
 - Jordan
 - Katherine
 
-
-#### Google Cloud (subjected to changes)
-Make sure you communicate with other team members before turning on and off the instances. Before you set up an account (you need a credit card), you can ask Ian to turn on and off the instances for you. The reason why we should use Google Cloud is that it gives us access to GPU's (in the future, we only have a dummy instance rn, but it should be good enough for most computing tasks). You are welcome to develop on your local machine, but it'd be nice if you could sync it on the instance and make sure it also runs smoothly on Google Cloud.
 
 
 #### Getting started
