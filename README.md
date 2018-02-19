@@ -66,6 +66,7 @@ pip install -r requirements.txt  # Install dependencies
 
 #conda install -c conda-forge tensorflow
 conda install tensorflow
+conda install keras
 
 source deactivate
 ```
